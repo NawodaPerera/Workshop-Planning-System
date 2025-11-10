@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMBiJ/BxAg+mK3n28KqLITHdnVABwZpZ1pHriJiMbjxVXWmWl5aqimWIbpNO4FvbO4EocQ5nDINAmuAjoRXivg==",
+  "success": true,
+  "projectFilePath": "D:\\My Documents\\UOM-BIT\\Level  01 - Semester 02\\ICT Project - ITE 1942\\ICT Project\\Workshop Planning System\\Workshop Planning System\\Workshop Planning System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sasiru Nawoda\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sasiru Nawoda\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sasiru Nawoda\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sasiru Nawoda\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

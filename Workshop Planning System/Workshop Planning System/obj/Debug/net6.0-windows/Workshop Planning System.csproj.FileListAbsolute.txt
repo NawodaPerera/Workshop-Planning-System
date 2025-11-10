@@ -1,0 +1,30 @@
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\Workshop Planning System.exe
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\Workshop Planning System.deps.json
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\Workshop Planning System.runtimeconfig.json
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\Workshop Planning System.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\Workshop Planning System.pdb
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.WelcomeForm.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.Properties.Resources.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.csproj.GenerateResource.cache
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.AssemblyInfoInputs.cache
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.AssemblyInfo.cs
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.csproj.CoreCompileInputs.cache
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\refint\Workshop Planning System.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.pdb
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.genruntimeconfig.cache
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\ref\Workshop Planning System.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.DetailsForm.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.ResourcesForm.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.OtherForm.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.SupportForm.resources
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.csproj.AssemblyReference.cache
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop Planning System.csproj.CopyComplete
+D:\My Documents\UOM-BIT\Level  01 - Semester 02\ICT Project - ITE 1942\ICT Project\Workshop Planning System\Workshop Planning System\obj\Debug\net6.0-windows\Workshop_Planning_System.OutputForm.resources
